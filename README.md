@@ -9,6 +9,9 @@ You need to include the swipe-navigation.min.js file in your project.
 
 ### HTML
 ```
+<script src="swipe-navigation.min.js"></script>
+...
+
 <div swipe-navigation-pages>
   <div swipe-navigation-wrapper>
     <div swipe-navigation-page>
